@@ -8,4 +8,6 @@ Unzip the file, and change the input_file variable in unstructure.py, line #61, 
 
 Run unstructure.py, and the unstructured data will be added to the data-folder.
 
-When the data has been unstructured into unstrucutre.txt inside the data-folder, the notebook should run without issues.
+
+
+When the data has been unstructured into unstrucutre.txt and uploaded on hdfs, the notebook should run with the correct filepaths.
